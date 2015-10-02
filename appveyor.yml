@@ -1,4 +1,6 @@
-os: Mac OS X
+os:
+- Mac OS X
+- Windows Server 2012 R2
 
 install:
 - git config --global core.autocrlf true
